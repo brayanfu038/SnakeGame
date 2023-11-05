@@ -32,7 +32,6 @@ Barreras: Cada 8 segundos, aparecerán obstáculos en forma de bomba en el table
 movement: El tamaño de la serpiente está predefinido en 5 unidades en la clase GAMEPANEL, mientras que la velocidad de movimiento de la serpiente está predefinida en 150 en la clase CAMINANTE. Estos valores se encuentran fijos y no se realizó la lectura de estos valores desde un archivo.
 ### Prerequisites
 
-
 La puntuacion se va a guardar en el archivo "puntuacion.ser"  que esta ubicado en la carpeta resources 
 ![image](https://github.com/brayanfu038/SnakeGame/assets/126002005/89d8da05-0aee-4898-92cb-7a0d60778902)
 

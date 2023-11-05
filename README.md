@@ -19,8 +19,7 @@ Serpiente (Snake): El jugador controla una serpiente que crece en longitud a med
 ## Built With
 
 - java
-
-
+- Eclipse
 ## STRATEGIA
 
 Puntuacion: se escogio la estrategia de que de que la puntuacion aumente en una unidad cada vez que la serpiente muerde.
